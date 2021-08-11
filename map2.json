@@ -1,0 +1,14 @@
+{ "columns":50,
+ "image":"src\/assets\/map2.png",
+ "imageheight":960,
+ "imagewidth":1600,
+ "margin":0,
+ "name":"map2",
+ "spacing":0,
+ "tilecount":1500,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}
